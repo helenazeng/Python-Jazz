@@ -1,7 +1,7 @@
 
 from music import *
 
-# theme (notice how we line up corresponding pitches and rhythms)
+# theme 
 pitches1   = [C4, E4, B4, A4, C4, E4, B4, A4]
 durations1 = [QN, QN,  QN,  EN,  QN,  EN,  QN,  QN] 
 
