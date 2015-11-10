@@ -10,7 +10,7 @@ For this repository users will need...
     http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html                              
     
 To run the code, please open JEM editor, and the code will play the composition.                                     
-please feel free to feel free to create your own chords and melody.
+please feel free to create your own chords and melody.
 
 Enjoy!!
 
